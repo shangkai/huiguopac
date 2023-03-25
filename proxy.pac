@@ -5,6 +5,9 @@ var proxy = "SOCKS5 59.110.49.182:1808; SOCKS 59.110.49.182:1808; DIRECT;";
 
 var rules = [
     "||l.qq.com",
+    "||aegis.qq.com",
+    "||video.qq.com",
+    "||beacon.qq.com",
 ];
 
 /*
