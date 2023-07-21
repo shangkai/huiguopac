@@ -8,6 +8,8 @@ var rules = [
     "||aegis.qq.com",
     "||video.qq.com",
     "||beacon.qq.com",
+    "||api.bilibili.com",
+    "||www.bilibili.com",
 ];
 
 /*
